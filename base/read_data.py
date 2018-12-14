@@ -8,6 +8,8 @@
 # 导包
 import os
 import yaml
+
+
 # # 打开文件
 # with open("../data/data_login.yaml", "r", encoding="utf-8") as f:
 #     # 调用load方法
