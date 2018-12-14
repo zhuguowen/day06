@@ -1,0 +1,14 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_login.TestLogin.test_login[18610453007-123123]","40685","
+    目标：爱客登录 业务成实现
+    步骤：
+        1. setup_class()
+            1. 实例化 统一入口类
+        2. teardown_class()
+            1. 关闭driver
+        3. test_login()
+            1. 测试步骤实现
+                1). 输入用户名
+                2). 输入密码
+                3). 点击登录
+"

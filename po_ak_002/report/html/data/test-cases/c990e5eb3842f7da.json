@@ -1,0 +1,60 @@
+{
+  "uid" : "c990e5eb3842f7da",
+  "name" : "TestLogin.test_login[18610453007-123123]",
+  "fullName" : "test_login.TestLogin.test_login[18610453007-123123]",
+  "historyId" : "d164bd642c3d3f4c2b97f725886777d7",
+  "time" : {
+    "start" : 1544691276384,
+    "stop" : 1544691317069,
+    "duration" : 40685
+  },
+  "description" : "\n    目标：爱客登录 业务成实现\n    步骤：\n        1. setup_class()\n            1. 实例化 统一入口类\n        2. teardown_class()\n            1. 关闭driver\n        3. test_login()\n            1. 测试步骤实现\n                1). 输入用户名\n                2). 输入密码\n                3). 点击登录\n",
+  "descriptionHtml" : "<pre><code>目标：爱客登录 业务成实现\n步骤：\n    1. setup_class()\n        1. 实例化 统一入口类\n    2. teardown_class()\n        1. 关闭driver\n    3. test_login()\n        1. 测试步骤实现\n            1). 输入用户名\n            2). 输入密码\n            3). 点击登录\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "MS-20180906QJYH"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "6632-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestLogin.test_login[18610453007-123123]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c990e5eb3842f7da.json",
+  "parameterValues" : [ ]
+}

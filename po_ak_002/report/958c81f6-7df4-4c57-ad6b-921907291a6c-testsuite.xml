@@ -1,0 +1,31 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1544691276384" stop="1544691317069">
+  <description>
+    目标：爱客登录 业务成实现
+    步骤：
+        1. setup_class()
+            1. 实例化 统一入口类
+        2. teardown_class()
+            1. 关闭driver
+        3. test_login()
+            1. 测试步骤实现
+                1). 输入用户名
+                2). 输入密码
+                3). 点击登录
+</description>
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1544691276384" status="passed" stop="1544691317069">
+      <name>TestLogin.test_login[18610453007-123123]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6632-MainThread"/>
+        <label name="host" value="MS-20180906QJYH"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
